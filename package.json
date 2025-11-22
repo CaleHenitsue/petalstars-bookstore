@@ -1,7 +1,7 @@
 {
   "name": "petalstars-bookstore",
   "version": "0.1.0",
-  "homepage": "https://calehenitsue.github.io/petalstars-bookstore/",
+  "homepage": "https://calehenitsue.github.io/petalstars-bookstore",
   "private": true,
   "dependencies": {
     "@firebase/auth": "^1.11.1",
