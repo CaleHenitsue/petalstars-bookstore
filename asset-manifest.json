@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petalstars-bookstore/static/css/main.dcc54cfe.css",
+    "main.js": "/petalstars-bookstore/static/js/main.52b4dc61.js",
+    "index.html": "/petalstars-bookstore/index.html",
+    "main.dcc54cfe.css.map": "/petalstars-bookstore/static/css/main.dcc54cfe.css.map",
+    "main.52b4dc61.js.map": "/petalstars-bookstore/static/js/main.52b4dc61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc54cfe.css",
+    "static/js/main.52b4dc61.js"
+  ]
+}
